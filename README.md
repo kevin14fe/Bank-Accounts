@@ -5,7 +5,7 @@ In this program, two classes are implemented in Python: BasicAccount and Premium
 
 The classes are adherent to the following UML Class diagram:
 
-![UML Diagram](https://github.com/kevin14fe/Bank-Accounts/uml.png?raw=true)
+![UML Diagram](https://github.com/kevin14fe/Bank-Accounts/blob/main/uml.png)
 
  
 Variables:
